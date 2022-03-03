@@ -38,7 +38,7 @@ $ cd {project_name}
 
 == License
 
-* LICENSE: link:./LICENSE[{project_license}]
+LICENSE: link:./LICENSE[{project_license}]
 
 
 == Contributors
