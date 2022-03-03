@@ -1,0 +1,45 @@
+:revision: 2022.09.0
+:icons: font
+:main-title: TDD Lesson Code
+:git_service: https://github.com/CheolhoJeon/tdd-lesson
+:project_name: tdd-lesson
+:project_license: Copyright
+:experimental:
+:hardbreaks:
+
+
+= {main-title}
+
+image:https://img.shields.io/badge/version-{revision}-blue.svg[link="./CHANGELOG",title="version"]  image:https://img.shields.io/badge/license-{project_license}-lightgrey.svg[link="./LICENSE",title="license"]
+
+
+== What is the Project
+
+이규원님의 TDD 강의에서 진행하는 실습 코드를 `JUnit5` 를 활용해 재작성합니다.
+
+== Building
+
+. Clone a copy of the repository:
++
+[subs="attributes"]
+----
+$ git clone {git_service}{project_name}.git
+----
++
+
+. Change to the project directory:
++
+[subs="attributes"]
+----
+$ cd {project_name}
+----
++
+
+== License
+
+* LICENSE: link:./LICENSE[{project_license}]
+
+
+== Contributors
+
+Cheolho Jeon <woung2770@gmail.com>
