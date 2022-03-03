@@ -15,7 +15,7 @@ image:https://img.shields.io/badge/version-{revision}-blue.svg[link="./CHANGELOG
 
 == What is the Project
 
-이규원님의 TDD 강의에서 진행하는 실습 코드를 `JUnit5` 를 활용해 재작성합니다.
+🦾 이규원님의 TDD 강의에서 진행하는 실습 코드를 `JUnit5` 를 활용해 재작성합니다.
 
 == Building
 
